@@ -5,15 +5,6 @@ Rohan Sachan 2018B3A70992H
 Aaryan Gupta 2018B1A70775H
 *******************************************************
 
-How to Run the code:
-
-step 1: open the .ipynb file locally on your jupyter notebook.
-step 2: can the path of stopword.txt and corpus accorking to your system (if they are not in the same folder as the .ipynb file)
-step 3: Run the code using kernal > restart and run all
-step 4: Enter the input(query) as and whereas asked by the code.
-
-*******************************************************
-
 Design Document:
 
 Data structures use: Binary tree, dictionary, lists, sets, collections.
